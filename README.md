@@ -11,7 +11,7 @@
 
 📱 Responsive Design: With a mobile compatible and stylish design, it can be used easily on any device.
 
-### 🧑‍💻 Technologies Used
+### 👩‍💻 Technologies Used
 
 <li>React-Redux</li>
 <li>@reduxjs/toolkit</li>
@@ -22,6 +22,10 @@
 <li>Css</li>
 <li>Bootstrap</li>
 
+### 🌐 `Deploy`
+
+https://flight-radar-redux.netlify.app/
+
 ### 🎥 `Screen`
 
-![](flight.gif)# Flight-Radar-React-Redux-Project
+![](flight.gif)
